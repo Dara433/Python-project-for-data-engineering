@@ -82,10 +82,3 @@ Execute the code using the command:
 python3.11 banks_project.py
 ```
 
-## Learner
-
-[Pravin Regismond](https://www.linkedin.com/in/pregismond)
-
-## Acknowledgments
-
-* IBM Skills Network © IBM Corporation 2023. All rights reserved.
